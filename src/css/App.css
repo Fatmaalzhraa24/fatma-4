@@ -1,0 +1,54 @@
+body{
+	background-color: #9dc2c2 !important;
+	font-family: 'Cairo' !important;
+	display: flex;
+	flex-direction: column;
+}
+
+
+.aboutme_btn{
+	border-radius: 30px !important;
+	border: 2px solid #fff !important;
+	color: #fdfafa !important;
+	padding: 15px 30px !important;
+	font-size: 14px !important;
+}
+
+.footer {
+	position: relative;
+	margin-top: 7%;
+	width: 100%;
+	text-align: center;
+	background-color: transparent;
+}
+
+.wave-container {
+	position: relative;
+}
+
+.wave-svg {
+	width: 100%;
+	height: auto;
+	display: block;
+}
+
+.footer-text {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	color: #000;
+	font-size: 1.5rem;
+}
+
+.footerasdgs{
+	background: url('../../public/img/footer-wave.svg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 300px;
+	color: #000;
+	text-align: center;
+}
+
+@import "~react-image-gallery/styles/css/image-gallery.css";

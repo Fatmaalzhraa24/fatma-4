@@ -1,0 +1,14 @@
+.text-e{
+    display: flex;
+    flex-direction: row;
+    overflow-x: hidden;
+    width: 500px;
+}
+.text-e p{
+    font-size: 30px;
+}
+
+.text-e::-webkit-scrollbar { 
+   width: 0px;
+    background: transparent;  
+}

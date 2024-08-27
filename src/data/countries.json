@@ -1,0 +1,15 @@
+[
+	{
+		"title": "Iraq +964",
+		"country": "iq",
+		"text": "Iraq is an Arab Republic located in Southwest Asia. Its land was home to major civilizations such as the Sumerians, Akkadians, Babylonians, and Assyrians. Thanks to the cuneiform script on clay tablets from the fourth millennium BC, its people are considered the first to have invented writing.Iraq is bordered by Turkey to the north, Iran to the east, Kuwait and Saudi Arabia to the south, and Saudi Arabia, Syria, and Jordan to the west.Its area is 438,317 square kilometers.",
+		"image": "/img/flags/iq.png"
+	},
+	{
+		"title": "Palestine +970",
+		"country": "ps",
+		"text": "Palestine is one of the historically and geographically significant lands in the Middle East. It is located in the southeastern part of the Mediterranean Sea and is bordered by Egypt, Syria, Lebanon, and Jordan. Palestine serves as a point of convergence between the continents of Asia and Africa, covering an area of approximately 27,000 square kilometers. Its capital is Jerusalem.",
+		"image": "/img/flags/ps.png"
+	}
+]
+

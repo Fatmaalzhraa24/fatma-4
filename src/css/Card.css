@@ -1,0 +1,16 @@
+.card-body {
+	display: flex;
+	flex-direction: column;
+	flex-grow: 1;
+	background-color: aliceblue;
+}
+
+.card-text {
+	flex-grow: 1;
+}
+
+.mt-auto {
+	margin-top: auto;
+}
+
+
